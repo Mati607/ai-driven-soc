@@ -1,4 +1,4 @@
-# 🛡️ AI-Driven SOC — Explainable Retrieval-Augmented Triage
+# 🛡️ AI-Driven Security Center Operation
 
 <div align="center">
 
